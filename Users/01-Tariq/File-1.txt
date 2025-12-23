@@ -1,3 +1,4 @@
 First line.
 
 Bug fixed.
+second line
