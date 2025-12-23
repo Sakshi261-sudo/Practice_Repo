@@ -1,4 +1,4 @@
 First line.
-
 Bug fixed.
 second line
+Fourth line.
