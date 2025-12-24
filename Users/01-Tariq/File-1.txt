@@ -1,6 +1,5 @@
-First line. Feature line.
+First line.
 Bug fixed.
 second line
 third line
 Fourth line.
-Feature line.
